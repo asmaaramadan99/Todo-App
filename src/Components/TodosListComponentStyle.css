@@ -1,0 +1,24 @@
+.table { border-collapse: collapse;
+    max-width: 100%;
+    color: tomato;
+    }
+
+tr:hover {background-color: tomato;}
+td{
+    text-align: left;
+
+}
+th {
+    text-align: center;
+    text-align-all: match-parent;
+}
+btn bt-warning{
+
+}
+.update_btn{
+    background-color: tomato;
+}
+.delete_btn{
+    background-color: tomato;
+}
+

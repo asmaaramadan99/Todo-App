@@ -1,0 +1,36 @@
+.welcome
+{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-family: "Lucida Bright";
+    font-size: 55px;
+    color: tomato;
+    font-weight: bolder;
+}
+.Title
+{
+    font-family: "Lucida Bright";
+    font-size: 80px;
+    position: absolute;
+    top:30%;
+    left: 20%;
+    text-shadow: lightcyan;
+    transform: translate(-50%,-50%);
+}
+.show-list-button
+{
+    position: absolute;
+    top:55%;
+    left:30%;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+   background-color: tomato;
+    font-family: "Lucida Bright";
+    color: aliceblue;
+    font-size: 25px;
+    mso-border-shadow: yes;
+    border-width: 5px;
+
+}
