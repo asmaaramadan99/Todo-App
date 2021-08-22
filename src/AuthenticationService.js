@@ -8,6 +8,7 @@
   logout(username)
   {
        sessionStorage.removeItem(username)
+       sessionStorage.clear()
   }
   isUserLoggedIn(username)
   {

@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a54942-6634-4604-94d0-8cbdb08cee8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/todo/HelloWorldService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/todo/TodoService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuthenticationService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/LoginComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/LoginComponentStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TodoApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TodoItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TodosListComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TodosListComponentStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/WelcomeComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/WelcomeComponentStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuthenticationService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthenticationService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/LoginComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/LoginComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodosListComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodosListComponent.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -99,8 +83,20 @@
       <workItem from="1620617547275" duration="67000" />
       <workItem from="1620617638874" duration="660000" />
       <workItem from="1626528971703" duration="9248000" />
-      <workItem from="1626897527429" duration="4229000" />
+      <workItem from="1626897527429" duration="5323000" />
+      <workItem from="1628019719548" duration="2445000" />
+      <workItem from="1628031449863" duration="1550000" />
+      <workItem from="1628035028602" duration="7913000" />
+      <workItem from="1629621784970" duration="7700000" />
     </task>
+    <task id="LOCAL-00001" summary="new components">
+      <created>1626902015677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626902015677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +113,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new components" />
+    <option name="LAST_COMMIT_MESSAGE" value="new components" />
   </component>
 </project>
